@@ -7,7 +7,9 @@
 
 Мои контакты:
 
-Телеграм: @Xenoxil    Email: yukstepanov@gmail.com
+Телеграм: @Xenoxil    
+
+Email: yukstepanov@gmail.com
 
 Мой стек:
 
